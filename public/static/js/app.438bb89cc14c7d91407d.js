@@ -220,7 +220,7 @@ html{
       fullMarkdown: `
 马明骏
 ----
-20岁，Java软件工程师，一年Java EE 目前在沈阳念本科。
+20岁，Java后端，一年Java EE 目前在沈阳念本科。
 有良好的文档编写和代码书写规范，能独立解决问题、心态好、有耐心。
 对新技术有学习的兴趣，喜欢尝试新事物。
 <br/>
@@ -457,7 +457,7 @@ html{
       fullMarkdown: `
 马明骏
 ----
-20岁，Java软件工程师，一年Java EE 目前在沈阳念本科。
+20岁，Java后端，一年Java EE 目前在沈阳念本科。
 有良好的文档编写和代码书写规范，能独立解决问题、心态好、有耐心。
 对新技术有学习的兴趣，喜欢尝试新事物。
 <br/>
@@ -795,4 +795,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.6a81c30a0e55d68f8dd2.js.map
+//# sourceMappingURL=app.438bb89cc14c7d91407d.js.map
