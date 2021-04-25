@@ -114,11 +114,11 @@ html{
       fullMarkdown: `
 马明骏
 ----
-20岁，Java软件工程师，一年Java EE 从业经验，目前在杭州工作。
-有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控
+20岁，Java软件工程师，一年Java EE 目前在沈阳念本科。
+有良好的文档编写和代码书写规范，能独立解决问题、心态好、有耐心。
+对新技术有学习的兴趣，喜欢尝试新事物。
 <br/>
 
-- [中英文简历](https://zhousiwei.gitee.io/cv/)
 
 技能
 ----
@@ -127,12 +127,13 @@ html{
 
 技术及语言
 ----
-  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
-  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
-  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis
+  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis
+  - **前端**: Vue、Bootstrap、jQuery
+  - **数据库**: MySQL、SQLServer、Oracle、redis
   - **web 服务器**: Nginx、Tomcat、Apache
   - **OS**: Linux、Windows
-  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
+  - **Others**: Git、Maven
+  - **常用工具**: IDEA、VsCode、SublimeText
 
 工作经历
 ----
@@ -140,30 +141,12 @@ html{
 
 开源项目
 ----
-1. [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://gitee.com/zhousiwei/bootplus)
-2. [SpringBoot集成MyBatisPlus集成Shiro可以快速开发](https://gitee.com/zhousiwei/springboot_mybatisplus)
-3. [自制spring boot starter for fastjson](https://gitee.com/zhousiwei/fastjson-spring-boot-starter)
-4. [基于web版kettle开发的一套分布式综合调度,管理,ETL开发的用户专业版B/S架构工具](https://github.com/JoeyBling/webkettle)
-5. [一个会动的简历](https://gitee.com/zhousiwei/anires)
-6. [VuePress记录技术开发笔记](https://gitee.com/zhousiwei/ibooks)
-7. [使用GitBook记录开发笔记](https://zhousiwei.gitee.io/myBook/)
-8. [試毅-思伟的技术博客网站](https://gitee.com/zhousiwei/zhousiwei)
+1. [基于SpringBoot + MyBatisPlus的在线教育商城](https://github.com/C1EYE/Guli)
 
 链接
 ----
-* [技术博客](https://zhousiwei.gitee.io/)
-* [GitHub](https://github.com/JoeyBling)
-* [简书](https://www.jianshu.com/u/02cbf31a043a)
-* [开发笔记](https://zhousiwei.gitee.io/ibooks)
-
-[归档文章](https://zhousiwei.gitee.io/)
-----
-1. [Java](https://zhousiwei.gitee.io/tags/Java/)
-2. [Linux](https://zhousiwei.gitee.io/tags/Linux/)
-3. [ELK日志分析](https://zhousiwei.gitee.io/tags/ELK%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90/)
-4. [MySQL](https://zhousiwei.gitee.io/tags/MySQL)
-5. [Hexo](https://zhousiwei.gitee.io/tags/Hexo)
-6. [日记本](https://zhousiwei.gitee.io/tags/%E6%97%A5%E8%AE%B0%E6%9C%AC/)
+* [技术博客](https://c1eye.github.io/c1eye/)
+* [GitHub](https://github.com/C1EYE)
 
 联系我
 ----
