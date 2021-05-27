@@ -123,17 +123,18 @@ html{
 技能
 ----
 * 后端开发
-* Linux运维
+* 四级
+* 韩语
 
 技术及语言
 ----
   - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis
   - **前端**: Vue、Bootstrap、jQuery
   - **数据库**: MySQL、SQLServer、Oracle、redis
-  - **web 服务器**: Nginx、Tomcat、Apache
-  - **OS**: Linux、Windows
+  - **web 服务器**: Nginx、Tomcat
+  - **OS**: Linux
   - **Others**: Git、Maven
-  - **常用工具**: IDEA、VsCode、SublimeText
+  - **常用工具**: IDEA、VsCode
 
 工作经历
 ----
